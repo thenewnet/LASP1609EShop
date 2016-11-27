@@ -1,0 +1,25 @@
+﻿.PagerStyle span{
+    border: 1px solid #ff0000;
+    margin-right: 5px;
+    min-width: 20px;
+    display:block;
+    text-align: center;
+    background-color: #337ab7;
+    color: #FFF;
+}
+
+.PagerStyle a{
+    border: 1px solid #0026ff;
+    text-decoration: none;
+    margin-right: 5px;
+    min-width: 20px;
+    display:block;
+    text-align: center;
+    background-color: #FFF;
+}
+
+
+.PagerStyle a:hover{   
+    background-color: #C0C0C0;
+}
+
